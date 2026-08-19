@@ -1,0 +1,32 @@
+PRIYA VERMA
+Email: priya.verma@example.com | Phone: +91 9812345678
+LinkedIn: linkedin.com/in/priya-verma-dev | GitHub: github.com/priyaverma
+Location: Bengaluru, India
+
+OBJECTIVE
+Energetic Full Stack Developer with 2 years of experience specializing in Python, JavaScript, React, Django, and modern web application development. Passionate about building responsive user interfaces and secure REST APIs.
+
+WORK EXPERIENCE
+Software Developer | WebCraft Innovations, Bengaluru
+Aug 2022 - Present
+- Built full-stack web applications using React.js, Tailwind CSS, Python, and FastAPI.
+- Implemented user authentication and JWT authorization security layers.
+- Designed database schemas in PostgreSQL and MySQL, optimizing query performance by 25%.
+- Integrated RESTful APIs and managed Git version control across team branches.
+
+Junior Frontend Developer | TechApps India, Pune
+Aug 2021 - Jul 2022
+- Developed responsive UI components using HTML5, CSS3, JavaScript, and React.
+- Managed state using Redux Toolkit and streamlined API requests with Axios.
+
+EDUCATION
+B.Tech in Information Technology
+Vellore Institute of Technology (VIT), 2017 - 2021
+GPA: 8.5 / 10.0
+
+SKILLS
+- Frontend: HTML, CSS, JavaScript, TypeScript, React, React.js, Tailwind CSS, Bootstrap
+- Backend: Python, Django, FastAPI, Node.js, Express, REST API
+- Databases: PostgreSQL, MySQL, MongoDB, Redis
+- Tools & Cloud: Git, GitHub, Docker, Postman, Linux
+- Concepts: Data Structures, Object-Oriented Programming (OOP), Agile, System Design

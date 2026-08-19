@@ -1,0 +1,33 @@
+RAHUL SHARMA
+Email: rahul.sharma@example.com | Phone: +91 9876543210
+LinkedIn: linkedin.com/in/rahulsharma-ai | GitHub: github.com/rahulsharma-ml
+Location: New Delhi, India
+
+PROFESSIONAL SUMMARY
+Results-driven Data Scientist & Machine Learning Engineer with 3+ years of hands-on experience building end-to-end predictive models, NLP pipelines, and computer vision applications. Proficient in Python, Machine Learning algorithms, Deep Learning frameworks (TensorFlow, PyTorch), Scikit-Learn, and SQL. Skilled in transforming complex datasets into actionable business solutions.
+
+WORK EXPERIENCE
+Senior AI Engineer | DataTech Solutions, Noida
+Jan 2023 - Present
+- Designed and deployed customer churn prediction model using Scikit-Learn and XGBoost, increasing retention by 18%.
+- Developed Natural Language Processing (NLP) sentiment analysis system using NLTK, spaCy, and HuggingFace Transformers.
+- Engineered ETL data pipelines using Pandas, NumPy, and SQL to process over 2 Million records daily.
+- Built interactive analytics dashboards using Streamlit and Plotly for executive decision making.
+
+Data Analyst | Analytics Corp, Gurugram
+Jul 2021 - Dec 2022
+- Analyzed large-scale transactional datasets using Python, Pandas, and PostgreSQL.
+- Implemented automated report generation scripts using Python and Matplotlib.
+- Collaborated with cross-functional teams in Agile / Scrum environment.
+
+EDUCATION
+B.Tech in Computer Science & Engineering
+Delhi Technological University (DTU), 2017 - 2021
+GPA: 8.8 / 10.0
+
+TECHNICAL SKILLS
+- Programming Languages: Python, SQL, C++, HTML, CSS
+- Machine Learning & AI: Machine Learning, Deep Learning, NLP, Scikit-Learn, TensorFlow, PyTorch, Keras, NLTK, spaCy
+- Data Analysis & Viz: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit
+- Databases & Cloud: PostgreSQL, MySQL, MongoDB, Docker, AWS (S3, EC2), Git
+- Core Computer Science: Data Structures, Algorithms, DBMS, Object-Oriented Programming (OOP)

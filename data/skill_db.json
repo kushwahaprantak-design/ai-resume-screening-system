@@ -1,0 +1,45 @@
+{
+  "programming_languages": [
+    "python", "javascript", "typescript", "java", "c++", "c#", "c", "go", "golang", "rust", 
+    "ruby", "php", "sql", "r", "swift", "kotlin", "html", "css", "html5", "css3", "bash", 
+    "powershell", "matlab", "scala", "perl", "dart", "assembly"
+  ],
+  "web_frameworks": [
+    "react", "react.js", "reactjs", "angular", "angularjs", "vue", "vue.js", "vuejs", 
+    "next.js", "nextjs", "django", "flask", "fastapi", "node.js", "nodejs", "express", 
+    "express.js", "spring boot", "spring", "asp.net", "laravel", "streamlit", "dash", 
+    "svelte", "tailwind", "tailwindcss", "bootstrap", "rest api", "restful api", "graphql", 
+    "microservices", "web sockets", "ajax", "jquery"
+  ],
+  "data_science_ml": [
+    "machine learning", "deep learning", "nlp", "natural language processing", "computer vision", 
+    "tensorflow", "pytorch", "scikit-learn", "sklearn", "pandas", "numpy", "keras", "opencv", 
+    "nltk", "spacy", "huggingface", "transformers", "llm", "large language models", "rag", 
+    "generative ai", "time series", "data visualization", "matplotlib", "seaborn", "plotly", 
+    "scipy", "xgboost", "lightgbm", "data mining", "predictive modeling", "statistical analysis", 
+    "feature engineering", "neural networks", "cnn", "rnn", "lstm", "bert"
+  ],
+  "databases": [
+    "postgresql", "postgres", "mysql", "mongodb", "redis", "sqlite", "oracle", "sql server", 
+    "mssql", "cassandra", "firebase", "dynamodb", "neo4j", "elasticsearch", "snowflake", 
+    "bigquery", "mariadb", "db2", "hive", "hadoop"
+  ],
+  "cloud_devops": [
+    "aws", "amazon web services", "azure", "gcp", "google cloud", "docker", "kubernetes", 
+    "k8s", "jenkins", "git", "github", "gitlab", "ci/cd", "continuous integration", 
+    "terraform", "ansible", "linux", "unix", "nginx", "apache", "serverless", "cloud architecture", 
+    "ec2", "s3", "lambda", "devops", "prometheus", "grafana", "helm"
+  ],
+  "core_cs": [
+    "data structures", "algorithms", "dsa", "object-oriented programming", "oop", 
+    "operating systems", "os", "computer networks", "networking", "dbms", "database management", 
+    "system design", "software engineering", "sdlc", "agile", "scrum", "distributed systems", 
+    "debugging", "unit testing", "code review", "design patterns"
+  ],
+  "soft_skills": [
+    "communication", "team leadership", "leadership", "problem solving", "critical thinking", 
+    "project management", "time management", "presentation skills", "analytical skills", 
+    "collaboration", "adaptability", "teamwork", "decision making", "creativity", 
+    "emotional intelligence", "conflict resolution", "mentorship"
+  ]
+}

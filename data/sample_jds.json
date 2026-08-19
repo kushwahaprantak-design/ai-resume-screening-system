@@ -1,0 +1,30 @@
+{
+  "Data Scientist / ML Engineer": {
+    "title": "Data Scientist / Machine Learning Engineer",
+    "required_skills": ["python", "machine learning", "scikit-learn", "tensorflow", "pandas", "numpy", "sql", "data visualization", "deep learning", "nlp"],
+    "min_experience_years": 2,
+    "min_education": "Bachelor",
+    "description": "We are seeking a talented Data Scientist / Machine Learning Engineer to design, build, and deploy predictive models and AI solutions. The ideal candidate will have strong expertise in Python, Machine Learning, Deep Learning, NLP, Scikit-learn, TensorFlow or PyTorch, Pandas, and SQL. Responsibilities include data cleaning, feature engineering, training neural networks, evaluating model metrics, and presenting data insights using Plotly or Matplotlib. Experience with Cloud platforms (AWS/Azure) and Docker for model deployment is a strong plus."
+  },
+  "Full Stack Developer (Python & React)": {
+    "title": "Full Stack Developer",
+    "required_skills": ["python", "javascript", "react", "fastapi", "django", "postgresql", "html", "css", "git", "docker", "rest api"],
+    "min_experience_years": 1,
+    "min_education": "Bachelor",
+    "description": "Looking for a dynamic Full Stack Developer to build modern web applications. You will work with Python (Django or FastAPI) on the backend and React/TypeScript on the frontend. Required skills include HTML5, CSS3, JavaScript, RESTful APIs, PostgreSQL/MySQL database management, Git version control, and Docker containerization. Candidates should understand Data Structures, Agile methodologies, and microservice design patterns."
+  },
+  "DevOps & Cloud Engineer": {
+    "title": "DevOps & Cloud Engineer",
+    "required_skills": ["aws", "docker", "kubernetes", "jenkins", "linux", "terraform", "ci/cd", "python", "bash", "git"],
+    "min_experience_years": 3,
+    "min_education": "Bachelor",
+    "description": "Seeking an experienced DevOps Engineer to manage cloud infrastructure, automate deployment pipelines, and ensure high system availability. Core requirements: hands-on expertise with AWS, Docker containerization, Kubernetes orchestration, CI/CD with Jenkins or GitHub Actions, Terraform, Linux shell scripting (Bash/Python), and monitoring tools like Prometheus and Grafana."
+  },
+  "AI & NLP Research Specialist": {
+    "title": "AI & NLP Research Specialist",
+    "required_skills": ["python", "nlp", "spacy", "nltk", "huggingface", "transformers", "llm", "rag", "pytorch", "deep learning"],
+    "min_experience_years": 2,
+    "min_education": "Master",
+    "description": "We are hiring an AI/NLP Specialist to work on cutting-edge Natural Language Processing models, Large Language Models (LLMs), Retrieval Augmented Generation (RAG), and text analytics. Must be proficient in Python, PyTorch, HuggingFace Transformers, spaCy, NLTK, vector databases, and semantic text embeddings. Strong foundation in Deep Learning, BERT, GPT models, and feature extraction."
+  }
+}

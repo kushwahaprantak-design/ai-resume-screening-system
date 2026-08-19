@@ -1,0 +1,30 @@
+AMAN GUPTA
+Email: aman.gupta@cloudtech.org | Phone: +91 9988776655
+LinkedIn: linkedin.com/in/amangupta-devops | Location: Hyderabad, India
+
+SUMMARY
+Senior DevOps & Cloud Engineer with 4 years of experience automating CI/CD pipelines, managing Kubernetes clusters, and orchestrating AWS cloud infrastructure. Experienced with Docker, Terraform, Ansible, Linux administration, and Bash scripting.
+
+WORK EXPERIENCE
+DevOps Specialist | CloudScale Solutions, Hyderabad
+Jan 2022 - Present
+- Orchestrated Kubernetes (EKS) infrastructure managing over 50 microservices.
+- Created Terraform infrastructure-as-code scripts for AWS EC2, S3, RDS, and IAM management.
+- Built automated Jenkins CI/CD build pipelines reducing deployment downtime by 40%.
+- Implemented system monitoring and alert automation using Prometheus, Grafana, and ELK stack.
+
+Systems Engineer | IT Infrastructure Services, Chennai
+Jul 2020 - Dec 2021
+- Administered RedHat Linux and Ubuntu server environments.
+- Wrote automation shell scripts using Bash and Python.
+
+EDUCATION
+B.Tech in Computer Science
+NIT Trichy, 2016 - 2020
+
+TECHNICAL SKILLS
+- Cloud Platforms: AWS (Amazon Web Services), Azure, GCP
+- Containerization & Orchestration: Docker, Kubernetes, Helm
+- CI/CD & Automation: Jenkins, GitHub Actions, Terraform, Ansible
+- Operating Systems & Scripting: Linux, Unix, Bash, Python, PowerShell
+- Tools & Utilities: Git, Nginx, Prometheus, Grafana, ELK Stack
